@@ -1,2 +1,3 @@
 Ping -t google.com
 Ipconfig /all 
+Ipconfig /Flushdns
