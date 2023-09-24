@@ -1,0 +1,2 @@
+GET-SERVice
+$env:COMPUTERNAME
